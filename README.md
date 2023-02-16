@@ -1,7 +1,5 @@
 # certifications
 Resources for certifications
-Hello All
-
  This repo is mainly for my FMS fam. I will be adding more and more content daily, so check back often for relevant study material.
 This repo will include the following tracks:
 
